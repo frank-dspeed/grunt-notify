@@ -21,7 +21,7 @@
     "grunt-cli": "^1.2.0",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-mocha-test": "^0.13.2",
+    "grunt-mocha-test": "^0.13.3",
     "grunt-release": "^0.14.0",
     "grunt-templates-dylang": "^1.0.12",
     "load-grunt-tasks": "^3.4.0",
