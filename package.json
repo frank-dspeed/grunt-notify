@@ -20,7 +20,7 @@
     "chai": "^3.5.0",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-watch": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.1",
     "grunt-mocha-test": "^0.13.2",
     "grunt-release": "^0.14.0",
     "grunt-templates-dylang": "^1.0.12",
