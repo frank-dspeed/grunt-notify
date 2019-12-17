@@ -43,7 +43,7 @@
     "automatic"
   ],
   "dependencies": {
-    "semver": "^5.1.0",
+    "semver": "^7.1.0",
     "stack-parser": "^0.0.1",
     "which": "^1.2.4"
   }
